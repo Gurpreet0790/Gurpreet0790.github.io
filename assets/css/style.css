@@ -653,24 +653,24 @@ main {
   background: var(--bg-gradient-jet);
   border-radius: inherit;
   z-index: -1;
-    cursor: url('android.ico'), auto;
+    cursor: url('pointer_hollow.ico'), auto;
 
 }
 
 .service-icon-box { margin-bottom: 10px; cursor: none; }
 
 .service-icon-box img { margin: auto;
-cursor: url('android.ico'), auto;  }
+cursor: url('pointer_hollow.ico'), auto;  }
 
 .service-content-box { text-align: center; 
-cursor: url('android.ico'), auto; }
+cursor: url('pointer_hollow.ico'), auto; }
 
 .service-item-title { margin-bottom: 7px;
-cursor: url('android.ico'), auto; }
+cursor: url('pointer_hollow.ico'), auto; }
 
 .service-item-text {
   color: var(--light-gray);
-  cursor: url('android.ico'), auto;
+  cursor: url('pointer_hollow.ico'), auto;
   font-size: var(--fs-6);
   font-weight: var(--fw-3);
   line-height: 1.6;
@@ -1113,7 +1113,7 @@ margin-bottom: 30px;
 }
 
 .project-item > a:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5);
-  cursor: url('android.ico'), auto;
+  cursor: url('pointer_hollow.ico'), auto;
  }
 
 .project-item-icon-box {
